@@ -6,7 +6,7 @@
 Multi-page fitness website built with HTML, CSS and JavaScript.
 
 ### Project Repository
-[Open FitZone Project](SharifovaDurdona.github.io)
+[Open FitZone Project](https://github.com/Durdona-creator/SharifovaDurdona.github.io/tree/main/SharifovaDurdona.github.io)
 
 ### Project Includes
 - Membership system

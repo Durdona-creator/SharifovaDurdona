@@ -16,5 +16,5 @@ Multi-page fitness website built with HTML, CSS and JavaScript.
 Developed collaboratively by a team of 4 students:
 - [Dudona Sharifova](https://github.com/Durdona-creator)
 - [Kusselbayeva Kamila](https://github.com/KamiiKu)
-- [Anjuman Mst Atika]()
+- [Anjuman Mst Atika](https://github.com/atikaadamatikaazad-web)
 - [Ruba Nishat Tasnim]()

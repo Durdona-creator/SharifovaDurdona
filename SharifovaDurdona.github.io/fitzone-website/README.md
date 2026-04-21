@@ -94,4 +94,4 @@ Developed collaboratively by a team of 4 students:
 - [Dudona Sharifova](https://github.com/Durdona-creator)
 - [Kusselbayeva Kamila](https://github.com/KamiiKu)
 - [Anjuman Mst Atika](https://github.com/atikaadamatikaazad-web)
-- [Ruba Nishat Tasnim]()
+- [Ruba Nishat Tasnim](https://github.com/nishattasnimruba-spec)
